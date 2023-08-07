@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc3839dc.css",
+    "main.js": "/static/js/main.63ad6264.js",
+    "static/media/Slider.jpg": "/static/media/Slider.f8ec4d2afd1b30a5a6b7.jpg",
+    "static/media/video.jpg": "/static/media/video.9d60bfdcf591c5846429.jpg",
+    "static/media/testi-img.jpg": "/static/media/testi-img.df291963642a463b1884.jpg",
+    "static/media/f_card_img.jpg": "/static/media/f_card_img.f9980d5646b37c15b0ce.jpg",
+    "static/media/Slider2.jpg": "/static/media/Slider2.c5f962744748d6ccfeb9.jpg",
+    "static/media/banr3.jpg": "/static/media/banr3.64033a6636e4931fe215.jpg",
+    "static/media/banr4.jpg": "/static/media/banr4.f3d6fee9d1abb527e2f9.jpg",
+    "static/media/Test2.jpg": "/static/media/Test2.4f7f67b9df8bad74b08d.jpg",
+    "static/media/banr1.jpg": "/static/media/banr1.4aa3cb61b203ee5b690e.jpg",
+    "static/media/banr2.jpg": "/static/media/banr2.7880f9d32ab86fd34604.jpg",
+    "static/media/vid-img.jpg": "/static/media/vid-img.8e0900bc8d419ae56b1c.jpg",
+    "static/media/Test1.jpg": "/static/media/Test1.eff6c3f9f6033f599dcd.jpg",
+    "static/media/footer2.jpg": "/static/media/footer2.58d9372be634461c8931.jpg",
+    "static/media/footer1.jpg": "/static/media/footer1.0d911fdb785d1dff06ed.jpg",
+    "static/media/quat.svg": "/static/media/quat.7173d1e14760a3225a5c415638eb8c64.svg",
+    "static/media/quation.svg": "/static/media/quation.a2c13806e082be2aa5ef.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/play.svg": "/static/media/play.1a4bd70239c3cdb6982c.svg",
+    "index.html": "/index.html",
+    "main.fc3839dc.css.map": "/static/css/main.fc3839dc.css.map",
+    "main.63ad6264.js.map": "/static/js/main.63ad6264.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc3839dc.css",
+    "static/js/main.63ad6264.js"
+  ]
+}
